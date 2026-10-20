@@ -9,7 +9,7 @@ Name of Quantlet: rgithubQ_yaml_TM
 
 Published in: GitHub API based QuantNet Mining infrastructure in R
 
-Description: shows the interaction of three R packages rgithubQ, yamldebugger and TManalyzerQ.
+Description: shows the interaction of three R packages rgithubQ, yamldebugger and TManalyzerQ. Two GitHub API search examples for Quantlet extraction are given and their YAML meta data are parsed. Some sample queries are embedded into three text mining models BVSM, GVSM(TT) and LSA, the desired similarity method from the "proxy" package is applied and a comprehensive IR analysis is performed.
 
 Keywords: rgithubQ, yamldebugger, TManalyzerQ, GitHub API, YAML, text mining, software mining, QuantNet, proxy, IR, analysis
 
